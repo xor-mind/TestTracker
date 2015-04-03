@@ -1,0 +1,7 @@
+High Priority:
+- need to keep track of errors. even if the code fails, the tracker
+always says there's a success. 
+	- we should point out the errors in a nice way.
+
+Low Priority:
+- Change the TCHAR TestTracker::testName[256] to a vector 
